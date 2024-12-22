@@ -1,0 +1,15 @@
+table {
+    border: 1px solid ;
+    margin-top: 20px;
+}
+
+th,td {
+    border: 1px solid;
+    /* padding: 12px; */
+    text-align: center;
+    text-align: left;
+}
+
+#email,#name,#srno,#branch,#phone,#addr,#rollno {
+    text-align: center;
+}
